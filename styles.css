@@ -1,0 +1,58 @@
+textarea{
+	width: 99%;
+	padding: 4px;
+	min-height: 20px;
+	font-size: 0.9em;
+}
+ul,
+li,
+span{
+	cursor: default;
+}
+ul{
+	list-style: none;
+	padding-left: 0;
+	background-color: #ccc;
+	padding: 4px 0 0 4px;
+	overflow: hidden;
+}
+li{
+	float: left;
+	width: 5.2%;
+	min-height: 45px;
+	background-color: #fff;
+	margin: 0 4px 4px 0;
+	border: 2px solid #888;
+	border-width: 2px 2px 0 0;
+	font-size: 0.8em;
+}
+span{
+	display: block;
+	margin: 5px;
+}
+.w-one-plus-hf{
+	width: 12%;
+}
+.w-one-plus-three-qt{
+	width: 15.1%;
+}
+.w-two-plus-qt{
+	width: 18.2%;
+}
+.w-two{
+	width: 18.8%;
+}
+.w-fifteen{
+	width: 99%;
+}
+.w-fifteen span{
+	text-align: center;
+	padding-top: 10px;
+}
+.caps-on,
+.shift-on{
+	background-color: #cc0;
+}
+.clear-left{
+	clear: left;
+}
